@@ -90,3 +90,4 @@ docker-machine rm $(docker-machine ls -q) # Delete all VMs and their disk images
 
 ## Reference
 - [Get Started with Docker](https://docs.docker.com/get-started/)
+- [Docker overview](https://docs.docker.com/engine/docker-overview/)
